@@ -9,3 +9,4 @@ elseif board[index] == NIL
 elseif board[index] == "X" || "O"
   return TRUE
 end
+end
